@@ -1,5 +1,7 @@
 # Build TODO App with Redux and React JS
 
+### Todo App is in master branch.
+
 This repository contains code for Todo app with react-redux.
 
 ## Available Scripts
